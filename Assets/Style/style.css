@@ -111,6 +111,7 @@
     padding: 0px;
     height: 85px;
     display: flex;
+    width: 100%;
 
     @media screen and (max-width:767px){
         /* smartphone */
