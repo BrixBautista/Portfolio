@@ -799,7 +799,7 @@ margin-right: 18%;
     /* smartphone */
     margin-right: 5%;
     left: 5% !important;
-   font-size: medium;
+   font-size: small;
    top: 10%;
 
     }
@@ -851,7 +851,7 @@ margin-right: 18%;
         left: 53.5%;
 
         width: 45%;
-        height: 143px;
+        height: 123px;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -889,7 +889,7 @@ margin-right: 18%;
     
     @media screen and (max-width:767px){
         /* smartphone */
-        font-size: 12px;
+        font-size: 9px;
         left: 11%;
         }
 
