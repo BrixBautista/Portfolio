@@ -94,7 +94,7 @@
 #welcome{
     @media screen and (max-width:767px){
         /* smartphone */
-        font-size: 15px;
+        font-size: 25px;
         top: 30%;
         }
 
@@ -704,7 +704,7 @@
 
     @media screen and (max-width:767px){
         /* smartphone */
-        width: 50%;
+        width: 48%;
         height: 143px;
 
         display: inline-block;
