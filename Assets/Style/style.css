@@ -705,7 +705,7 @@
 
     @media screen and (max-width:767px){
         /* smartphone */
-        width: 48%;
+        width: 55%;
         height: 143px;
 
         display: inline-block;
@@ -847,10 +847,10 @@ margin-right: 18%;
     
     @media screen and (max-width:767px){
         /* smartphone */
-        bottom: 20%;
+        bottom: 97%;
         left: 53.5%;
 
-        width: 45%;
+        width: 40%;
         height: 123px;
         }
 
