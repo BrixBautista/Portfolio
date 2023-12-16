@@ -775,7 +775,7 @@
     
     @media screen and (max-width:767px){
         /* smartphone */
-        transform: scale(1,1.5);
+        transform: scale(0.5,1);
         margin-right: 0;
        
 
@@ -799,7 +799,7 @@ margin-right: 18%;
     /* smartphone */
     margin-right: 5%;
     left: 5% !important;
-   font-size: smaller;
+   font-size: x-small;
    top: 10%;
 
     }
@@ -847,10 +847,10 @@ margin-right: 18%;
     
     @media screen and (max-width:767px){
         /* smartphone */
-        bottom: 120%;
-        left: 50%;
+        bottom: 15%;
+        left: 60%;
 
-        width: 35%;
+        width: 40%;
         height: 123px;
         }
 
