@@ -851,7 +851,7 @@ margin-right: 18%;
         left: 58%;
 
         width: 40%;
-        height: 123px;
+        height: 140px;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -889,8 +889,9 @@ margin-right: 18%;
     
     @media screen and (max-width:767px){
         /* smartphone */
-        font-size: 9px;
+        font-size: 8px;
         left: 11%;
+        word-wrap:break-all;
         }
 
         
