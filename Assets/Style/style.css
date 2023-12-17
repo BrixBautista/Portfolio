@@ -166,7 +166,7 @@
     @media screen and (max-width:767px){
         /* smartphone */
         
-        right: -28%;
+        right: -10%;
         
         top: 25%;
         width: 80px;
@@ -847,7 +847,7 @@ margin-right: 18%;
     
     @media screen and (max-width:767px){
         /* smartphone */
-        bottom: 115%;
+        bottom: 95%;
         left: 58%;
 
         width: 40%;
